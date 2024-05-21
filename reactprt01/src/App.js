@@ -1,8 +1,13 @@
 import React from 'react'
+import Testing from './Testing'
+
 
 const App = () => {
   return (
-    <div>Chai Aur React || Pradee Prajapati</div>
+    <>
+   <h2>React </h2>
+   <Testing/>
+    </>
   )
 }
 
